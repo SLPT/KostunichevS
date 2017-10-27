@@ -1,0 +1,5 @@
+﻿  MMenu.cpp
+j:\...........................................kostyunichev stanislav ivanovich\1кзандм\orelreshka\orelreshka\Game.h(207): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Game.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  OrelReshka.vcxproj -> J:\...........................................Kostyunichev Stanislav Ivanovich\1КЗаНДМ\OrelReshka\Debug\OrelReshka.exe
+  OrelReshka.vcxproj -> J:\...........................................Kostyunichev Stanislav Ivanovich\1КЗаНДМ\OrelReshka\Debug\OrelReshka.pdb (Partial PDB)
